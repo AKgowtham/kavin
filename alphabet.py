@@ -1,5 +1,5 @@
-wo=input()
-if (wo >= 'a'and wo <= 'z') or (wo >= 'A' and wo <= 'Z'):
+ak=input()
+if (ak >= 'a'and ak <= 'z') or (ak >= 'A' and ak <= 'Z'):
     print("alphabet")
 else:
     print("no")
