@@ -1,2 +1,2 @@
-s=(raw_input())
+s=(input())
 print(s[::-1])
