@@ -1,3 +1,3 @@
-a=input()
-b=int(input())
-print(b*a)
+g=input()
+k=int(input())
+print(k*g)
