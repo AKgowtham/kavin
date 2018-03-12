@@ -1,3 +1,3 @@
-a=input("Enter String")
-b=a.replace(' ','')
-print(len(a)-len(b))
+x=input("Enter String")
+m=x.replace(' ','')
+print(len(x)-len(m))
