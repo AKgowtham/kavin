@@ -1,10 +1,9 @@
-def fact(v) :
-    if v > 1:
-        for i in range(2,v):
-            if (v % i) == 0:
+def fact(x) :
+    if x > 1:
+        for i in range(2,x):
+            if (x % i) == 0:
                 return "no"
         return "yes"
-    return "no"
-v = int(input(
-   "Enter value"))
-print(fact(v))
+    return "no" 
+x = int(input("Enter value"))
+print(fact(x))
