@@ -1,6 +1,2 @@
-a=input("het")
-a=a.split()
-c=[]
-for i in a:
-  c.append(i[::-1])
-print(" ".join(c)) 
+a=list(input("hefh"))
+print('->'.join(a[::-1]))
